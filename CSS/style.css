@@ -1,5 +1,7 @@
 body{
-	background: red
+	background: red;
+	width: 950px;
+	margine: 0 auto;
 }
 
 p{
